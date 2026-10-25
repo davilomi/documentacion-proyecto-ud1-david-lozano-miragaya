@@ -82,7 +82,10 @@ La documentacion generada se puede consultar en `docs/apidocs/index.html`.
 
 ## Documentacion en GitHub Pages
 
-[Consultar la documentacion Javadoc](https://USUARIO.github.io/documentacion-proyecto-ud1-david-lozano-miragaya/)
+
+La documentación Javadoc del proyecto se puede consultar en el siguiente enlace:
+
+[Ver documentación Javadoc](https://davilomi.github.io/documentacion-proyecto-ud1-david-lozano-miragaya/)
 
 
 ## Autor
